@@ -1,4 +1,4 @@
-![Banner](thebanner.png)
+![Banner](thebanner.PNG)
 
 <h1 align="center">Hi , I'm Zadquiel! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
@@ -37,4 +37,5 @@ console.log("¿Qué tal si hacemos algo increíble juntos?");
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
+
 
